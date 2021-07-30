@@ -1,0 +1,41 @@
+
+#navbarNav a{
+    padding-left: 25px;
+    text-decoration: none ;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(129, 35, 35);
+}
+#navbarNav{
+    margin-left: 50%;
+}
+#navbarNav a:hover{
+    color:green;
+}
+
+.brand{
+    color: rgb(33, 112, 86);
+    font-size: 40px;
+    font-weight: bold;
+}
+.brand:hover{
+    text-decoration: none;
+    color: rgb(38, 121, 72);
+}
+.login, .reg{
+    width: 27%;
+    margin: auto;
+    border: 1px solid wheat;
+    padding: 30px;
+    margin-top: 5%;
+    background-color: rgb(240, 235, 239);
+}
+#btn{
+    width: 100%;
+    background-color: rgb(42, 166, 182);
+}
+.hom{
+    font-size: 23px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
