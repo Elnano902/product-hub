@@ -26,7 +26,7 @@ function Register(){
     Seller 
 </div><br />
   <button type="submit" class="btn btn-primary" id="btn">Sign Up</button> 
-  <br></br> Already have an Account? <Link to="/Login">Log In</Link><br />     
+  <br></br> Already have an Account? <Link to="/Login" >Log In</Link><br />     
 </form>
 </div>
      

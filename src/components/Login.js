@@ -21,7 +21,7 @@ function Login(){
     <label class="form-check-label" for="exampleCheck1">Remember me</label>
   </div><br />
   <button type="submit" class="btn btn-primary" id="btn">Login</button> <br />
-  Don't have an Account? <Link to="/Register">Create Account</Link><br />
+  Don't have an Account? <Link to="/Register" onclick="validateForm()">Create Account</Link><br />
 
 </form>
 </div>

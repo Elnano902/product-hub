@@ -1,26 +1,35 @@
 
 #navbarNav a{
-    padding-left: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
     text-decoration: none ;
-    font-weight: bold;
+    font-weight: 10%;
     font-size: 20px;
-    color: rgb(129, 35, 35);
+    color: rgb(97, 35, 35);
+}
+.log{
+    border: 1px solid rgb(107, 138, 231);
+    border-radius: 15px;
+    margin-left: auto;
+}
+.log:hover{
+    background-color: rgb(146, 199, 206);
 }
 #navbarNav{
-    margin-left: 50%;
+    margin-left: 2%;
 }
 #navbarNav a:hover{
-    color:green;
+    color:rgb(24, 90, 68);
 }
 
 .brand{
-    color: rgb(33, 112, 86);
-    font-size: 40px;
+    color: rgb(24, 77, 59);
+    font-size: 35px;
     font-weight: bold;
 }
 .brand:hover{
     text-decoration: none;
-    color: rgb(38, 121, 72);
+    color: rgb(23, 82, 62);
 }
 .login, .reg{
     width: 27%;
@@ -33,9 +42,31 @@
 #btn{
     width: 100%;
     background-color: rgb(42, 166, 182);
+    margin-top: 10px;
+}
+.home a{
+    color: black;
 }
 .hom{
     font-size: 23px;
+}
+#bg{
+    background-repeat:repeat-y;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+#cont{
+    margin: auto;
+    border: 1px solid wheat;
+    padding: 25px;
+    margin-top: 3%;
     margin-left: 10%;
     margin-right: 10%;
+    background-color: rgb(240, 235, 239);
+}
+#address{
+    margin-left: 8%;
+    margin-top: 7%;
+    margin-right: 8%;
 }
