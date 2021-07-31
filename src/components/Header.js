@@ -9,7 +9,7 @@ function Header(){
   <Link className="brand" to ="/home">Products Hub</Link>
 
   <div class="collapse navbar-collapse" id="navbarNav">
-       <Link to="/home">Home</Link>    
+       <Link to="/home">Home</Link>   
        <Link to="/about">About</Link> 
        <Link to="/contact">Contact</Link>  
        <Link className="log" to="/login">Login</Link>    

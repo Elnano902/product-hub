@@ -11,6 +11,7 @@ function Home(){
             <div class="text-center my-5" style={{height:'20rem'}}>
                 <h1 class="text-black fs-3 fw-bolder">Welcome To Products Hub</h1>
                 <p class="text-black-50 mb-0">An Online platform for your Products</p>
+                <br></br><br></br><Link className="loghome" to="/Register">Create Account</Link>  
             </div>
         </header>
 
@@ -19,8 +20,8 @@ function Home(){
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
                         <h2>What do we do?</h2>
-                        <p class="lead">We connect sellers and buyers from all over Tanzania through self advertisement of products.</p>
-                        <p class="mb-0">The universe is almost 14 billion years old, and, wow! Life had no problem starting here on Earth! I think it would be inexcusably egocentric of us to suggest that we're alone in the universe.</p>
+                        <p class="lead">We connect sellers and buyers from all over Tanzania through an Online Platform.</p>
+                        <p class="mb-0">Be a part of Products Hub now by Creating an Account and start buying products at a cheap price and conveniently at Home!</p>
                     </div>
                 </div>
             </div>
@@ -35,9 +36,9 @@ function Home(){
             <div class="container my-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
-                        <h2>Engaging Background Images</h2>
-                        <p class="lead">The background images used in this template are sourced from Unsplash and are open source and free to use.</p>
-                        <p class="mb-0">I can't tell you how many people say they were turned off from science because of a science teacher that completely sucked out all the inspiration and enthusiasm they had for the course.</p>
+                        <h2>More About Products Hub</h2>
+                        <p class="lead">We let Enterprenuers advertise their products for free and connect them to their clients</p>
+                        <p class="mb-0">Create an Account now to meet up with your clients on cloud for free!</p>
                     </div>
                 </div>
             </div>
