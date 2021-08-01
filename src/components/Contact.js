@@ -1,7 +1,18 @@
 function Contact(){
     return(
-        <div id="cont">
-           
+        <div className="nah">
+        <div>
+        <section id="support" class="support-main-block block-spacing" style={{paddingtop:'0px' ,margintop:'30px'}}>
+      <div class="container"style={{margintop:'2px', width:'1530px'}}>
+        <div class="row">
+       <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1981.033701602739!2d39.2501047!3d-6.761636!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4c333ab584af%3A0x96e85df13ce7d8a8!2sCORPORATE+INFORMATION+TECHNOLOGY+SOLUTIONS!5e0!3m2!1sen!2stz!4v1522306660700" width="1520" height="400" frameborder="0" style={{border:'0'}} allowfullscreen></iframe>
+       </div>
+       </div>
+       </section>
+       </div>
+            
+        
+            <div id="cont">
 <section class="mb-4" >
 
 
@@ -85,6 +96,7 @@ function Contact(){
     </div>
 
 </section>
+        </div>
         </div>
     );
 }
