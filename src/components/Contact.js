@@ -12,8 +12,8 @@ function Contact(){
        </div>
             
         
-            <div id="cont">
-<section class="mb-4" >
+            <div id="cont" style={{marginBottom:'8%'}}>
+<section class="mb-4"  >
 
 
     <h2 class="h1-responsive font-weight-bold text-center my-4">Contact us</h2>

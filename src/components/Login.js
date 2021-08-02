@@ -4,7 +4,7 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 
 function Login(){
     return(
-        <div className="login">
+        <div className="login" style={{marginBottom:'15%'}}>
         <form >
             <h2>Please Login</h2><br></br>
   <div class="form-group">

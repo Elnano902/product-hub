@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom';
 
 function Register(){
     return(
-        <div className="reg">
+        <div className="reg" style={{marginBottom:'10%'}}>
                   <form>
             <h2>Create Account</h2><br></br>
   <div class="form-group">
