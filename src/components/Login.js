@@ -1,7 +1,6 @@
 import {Link} from 'react-router-dom';
-import {useEffect} from 'react';
 import 'bootstrap/dist/js/bootstrap.min.js';
-
+import React from 'react';
 function Login(){
     return(
         <div className="login" style={{marginBottom:'15%'}}>

@@ -1,4 +1,5 @@
 import {Link} from 'react-router-dom';
+import React from 'react';
 function About(){
     return(
         <div className="abt">
@@ -17,7 +18,7 @@ function About(){
 
         <div class="col-lg-4">
 
-          <img class="img-fluid rounded z-depth-5" src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/new/img(21).jpg" alt="sample"></img>
+          <img class="img-fluid rounded z-depth-5" src="../images/abt.jpg" alt="sample"></img>
         
         </div>
 

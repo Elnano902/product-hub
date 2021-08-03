@@ -1,7 +1,6 @@
 import {Link} from 'react-router-dom';
 import background from "../bg4.jpg";
-import background2 from "../bg2.jpg";
-
+import React from 'react';
 function Home(){
     return(
         <div className="home">
@@ -34,38 +33,39 @@ function Home(){
  <div class="container py-5">
    <div class="row py-5">
      <div class="col-lg-8 m-auto text-center">
-       <h1>Some of Products</h1>
+       <h2>Some of Our Products</h2>
+       <hr />
      </div>
-     <div class="row">
+     <div class="row" id="prod">
        <div class="col-lg-4">
-         <img src="../images/key.jpg" alt="" class="img-fluid mb-3"/>
-         <h4>Best ProducTS Quality</h4>
-         <p>Thi is the among the products which trends in our companymmcc dbffnf fngg fnnn..</p>
+         <img src="../images/clothes.jpg" alt="" class="img-fluid mb-3"/>
+         <h5>Clothes</h5>
+         <p>Get your own trending clothes from Products Hub now!.</p>
        </div>
        <div class="col-lg-4">
-         <img src="../images/blu.jpg" alt="" class="img-fluid mb-3"/>
-         <h4>Best ProducTS Quality</h4>
-         <p>Thi is the among the products which trends in our companymmcc dbffnf fngg fnnn..</p>
+         <img src="../images/edevices.jpg" alt="" class="img-fluid mb-3"/>
+         <h5>Electronic devices</h5>
+         <p>Get your Home and office necessary electronic machines at a cheap price from Products Hub.</p>
        </div>
        <div class="col-lg-4">
-         <img src="../images/wire.jpg" alt="" class="img-fluid mb-3"/>
-         <h4>Best ProducTS Quality</h4>
-         <p>Thi is the among the products which trends in our companymmcc dbffnf fngg fnnn..</p>
+         <img src="../images/jewelleries.jpg" alt="" class="img-fluid mb-3"/>
+         <h5>Jewelleries</h5>
+         <p>Look stunning at functions by wearing beautiful jewelleries from Products Hub.</p>
        </div>
        <div class="col-lg-4">
-         <img src="../images/key.jpg" alt="" class="img-fluid mb-3"/>
-         <h4>Best ProducTS Quality</h4>
-         <p>Thi is the among the products which trends in our companymmcc dbffnf fngg fnnn..</p>
+         <img src="../images/stationeries.jpg" alt="" class="img-fluid mb-3"/>
+         <h5>Stationeries</h5>
+         <p>Buy quality stationeries for smooth and better learning and office tasks.</p>
        </div>
        <div class="col-lg-4">
-         <img src="../images/blu.jpg" alt="" class="img-fluid mb-3"/>
-         <h4>Best ProducTS Quality</h4>
-         <p>Thi is the among the products which trends in our companymmcc dbffnf fngg fnnn..</p>
+         <img src="../images/accessories.jpg" alt="" class="img-fluid mb-3"/>
+         <h5>Accessories</h5>
+         <p>Get bags, shoes and watches and other accessories from products Hub at cheap and convenient price.</p>
        </div>
        <div class="col-lg-4">
-         <img src="../images/wire.jpg" alt="" class="img-fluid mb-3"/>
-         <h4>Best ProducTS Quality</h4>
-         <p>Thi is the among the products which trends in our companymmcc dbffnf fngg fnnn..</p>
+         <img src="../images/furniture.jpg" alt="" class="img-fluid mb-3"/>
+         <h5>Furnitures</h5>
+         <p>Stay healthy and safe with furnitures from Products Hub</p>
        </div>
      </div>
    </div>

@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css"
-import {Link} from 'react-router-dom'
+import React from 'react';
 import "bootstrap/dist/js/bootstrap.js"
  function Footer(){
    return(
@@ -9,7 +9,7 @@ import "bootstrap/dist/js/bootstrap.js"
 
 
 <div class="footer-copyright text-center py-3" style={{background:'lightgray'}}>© 2021 Copyright:
-<a href="/">CITS</a>
+<a href="https://www.cits.co.tz/">CITS</a>
 </div>
 </footer>
 

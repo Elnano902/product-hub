@@ -1,7 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 import {Link} from 'react-router-dom'
 import "bootstrap/dist/js/bootstrap.js"
-
+import React from 'react';
 function Header(){
     return(
         <div className="head">
